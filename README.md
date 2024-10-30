@@ -1,48 +1,92 @@
 # 📊 Data Analysis & Machine Learning Projects
 
-Welcome to my repository of data-driven projects! Each project represents a unique analysis or machine learning task, using various datasets to gain insights and build predictive models. Here’s a snapshot of the projects:
+Welcome to my **Data Science & Machine Learning** portfolio! Each project below dives into a specific dataset and analysis technique. 📈✨
 
 ---
 
-## 📁 Datasets
+## 📁 Datasets Overview
 
-- **Air_Bnb_Dataset** - Explore Airbnb data for insights on bookings, customer preferences, and pricing trends.
-- **cleaned_AB_NYC_2019** - A cleaned dataset for NYC Airbnb listings, ready for analysis.
-- **Customer_Segmentation_Dataset** - Dataset focused on segmenting customers based on buying patterns.
-- **Housing** - Housing market data for building predictive models on price estimation.
-- **Mcd_Sales_Dataset** - Sales data of McDonald's outlets, capturing various sales metrics.
-- **Retail_Sales_Dataset** - Retail sales data to understand customer purchasing behavior.
-- **Youtube_Stats_Cleaning_Dataset** - YouTube statistics data, cleaned and ready for analysis.
+Explore the data sources behind each project:
 
----
-
-## 📝 Projects and Tasks
-
-### 1. EDA on McDonald's Sales Data
-   - **File**: `Task 1. EDA_On_McD_Dataset`
-   - **Description**: Exploratory Data Analysis on McDonald's sales data to uncover trends and insights into popular items, sales patterns, and customer demographics.
-
-### 2. EDA on Retail Sales Data
-   - **File**: `Task 2. EDA_On_Retail_Sales_Dataset`
-   - **Description**: Analyze retail sales data to understand seasonal sales trends, customer demographics, and product performance.
-
-### 3. Customer Segmentation Analysis
-   - **File**: `Task 3. Customer_Segmentation_Analysis`
-   - **Description**: Segment customers into distinct groups based on spending habits and preferences, using clustering techniques for targeted marketing insights.
-
-### 4. YouTube Stats Data Cleaning
-   - **File**: `Task 4. Youtube_Stats_Data_Cleaning`
-   - **Description**: Clean YouTube stats data to ensure data integrity, handling missing values and duplicates for further analysis.
-
-### 5. Airbnb Data Cleaning
-   - **File**: `Task 5. Air_BNB_Data_Cleaning`
-   - **Description**: Prepare Airbnb dataset for analysis by addressing missing values, outliers, and inconsistencies, making the data analysis-ready.
-
-### 6. House Price Prediction
-   - **File**: `Task 6. House_Price_Prediction`
-   - **Description**: Build a predictive model for housing prices based on features such as location, size, and amenities. Includes feature engineering and model evaluation.
+- **🛏️ Airbnb Data** - Comprehensive data on Airbnb listings.
+- **🌆 NYC Airbnb (Cleaned)** - Focused on NYC, cleaned for detailed insights.
+- **🛒 Retail Sales Data** - Captures customer buying patterns in retail.
+- **🍟 McDonald's Sales Data** - Metrics on popular items, outlet performance.
+- **🏠 Housing Data** - Useful for modeling house price predictions.
+- **📊 YouTube Stats** - Social media data, ready for statistical analysis.
 
 ---
 
-## 📂 Folder Structure
+## 🚀 Project Highlights
+
+Click each project title to expand and explore the details!
+
+<details>
+  <summary><strong>1. 📝 EDA on McDonald's Sales Data</strong></summary>
+  
+  **File**: `Task 1. EDA_On_McD_Dataset.ipynb`  
+  **Objective**: Conduct exploratory data analysis on McDonald's sales data to identify popular items, seasonal trends, and customer demographics.
+  
+  <details>
+    <summary><i>Key Insights</i></summary>
+    - Most popular items by region.
+    - Seasonal sales fluctuations.
+    - Key demographics of McDonald's customers.
+  </details>
+</details>
+
+<details>
+  <summary><strong>2. 📊 EDA on Retail Sales Data</strong></summary>
+
+  **File**: `Task 2. EDA_On_Retail_Sales_Dataset.ipynb`  
+  **Objective**: Analyze retail sales data to understand product performance and seasonal sales trends.
+  
+  <details>
+    <summary><i>Key Insights</i></summary>
+    - Top-selling products.
+    - Sales peaks during holiday seasons.
+    - Customer buying behavior.
+  </details>
+</details>
+
+<details>
+  <summary><strong>3. 👥 Customer Segmentation Analysis</strong></summary>
+
+  **File**: `Task 3. Customer_Segmentation_Analysis.ipynb`  
+  **Objective**: Cluster customers based on purchasing behavior to identify target segments for marketing.
+
+  <details>
+    <summary><i>Key Insights</i></summary>
+    - Identification of customer segments.
+    - Segment-based marketing strategies.
+  </details>
+</details>
+
+<details>
+  <summary><strong>4. 🧹 YouTube Stats Data Cleaning</strong></summary>
+
+  **File**: `Task 4. Youtube_Stats_Data_Cleaning.ipynb`  
+  **Objective**: Clean the YouTube statistics dataset to make it analysis-ready.
+  
+  <details>
+    <summary><i>Cleaning Techniques</i></summary>
+    - Handled missing values and duplicates.
+    - Standardized data types and formats.
+  </details>
+</details>
+
+<details>
+  <summary><strong>5. 🏠 House Price Prediction</strong></summary>
+
+  **File**: `Task 6. House_Price_Prediction.ipynb`  
+  **Objective**: Predict housing prices based on features like location, size, and amenities.
+  
+  <details>
+    <summary><i>Modeling Steps</i></summary>
+    - Feature engineering and selection.
+    - Model building and evaluation.
+  </details>
+</details>
+
+---
 
