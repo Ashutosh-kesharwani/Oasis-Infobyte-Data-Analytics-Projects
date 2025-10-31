@@ -1,4 +1,4 @@
-# 📊 Data Analysis & Machine Learning Projects
+# 📊 Data Analysis & Machine Learning Projects.
 
 Welcome to my **Data Science & Machine Learning** portfolio! Each project below dives into a specific dataset and analysis technique. 📈✨
 
