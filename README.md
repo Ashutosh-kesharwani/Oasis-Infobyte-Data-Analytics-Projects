@@ -8,6 +8,7 @@ Welcome to my **Data Science & Machine Learning** portfolio! Each project below 
 
 Explore the data sources behind each project:
 
+
 - **🛏️ Airbnb Data** - Comprehensive data on Airbnb listings.
 - **🌆 NYC Airbnb (Cleaned)** - Focused on NYC, cleaned for detailed insights.
 - **🛒 Retail Sales Data** - Captures customer buying patterns in retail.
